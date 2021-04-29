@@ -1,0 +1,14 @@
+# node modules
+node_modules
+
+
+# Log files
+*.log
+
+# Editors
+.vscode
+.idea
+
+# Docs dist directory
+/vuepress
+
